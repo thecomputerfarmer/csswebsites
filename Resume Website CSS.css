@@ -1,4 +1,6 @@
 
+			@media only screen and (max-width: 100000000px) {
+
 			body {
 			
 			background-image: url("https://raw.githubusercontent.com/thecomputerfarmer/csswebsites/master/stock-photo-skyline-of-nairobi-kenya-with-uhuru-park-in-the-foreground-and-a-helicopter-on-top-of-the-kicc-471954923.jpg");
@@ -90,4 +92,6 @@
 			
 				color: red;
 			
+			}
+				
 			}
