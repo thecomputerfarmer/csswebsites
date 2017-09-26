@@ -1,0 +1,92 @@
+			body {
+			
+			background-image: url("https://raw.githubusercontent.com/thecomputerfarmer/csswebsites/master/stock-photo-skyline-of-nairobi-kenya-with-uhuru-park-in-the-foreground-and-a-helicopter-on-top-of-the-kicc-471954923.jpg");
+			background-attachment: fixed;
+			overflow: auto;
+			
+			}
+			
+			header {
+				border-radius: 25px;
+				text-align: center;
+				width: 40%;
+				padding: 2%;
+				position: relative;
+				left: 21.7%;
+			
+			}
+			
+			#left {
+			
+				border-radius: 25px;
+				background-color: #ffd9b3;
+				padding: 1%;
+				width: 20%;
+				text-align: center;
+				overflow: auto;
+				position: absolute;
+				left: 1.7%;
+			
+			}
+			
+			#table {
+			
+			border-radius: 25px;
+			padding: 2%;
+			width: 30%;
+			position: absolute;
+			bottom: 79%;
+			left: 30.7%;
+			
+			}
+			
+			#middle {
+			text-align: center;
+			overflow: auto;
+			padding: 2%;
+			width: 30%;
+			border-radius: 25px;
+			background-color: #ffd9b3;
+			position: absolute;
+			left: 26.7%;
+			bottom: 12.5%;
+			
+			}
+			
+			#right {
+			
+			text-align: center;
+			overflow: auto;
+			padding: 2%;
+			width: 30%;
+			border-radius: 25px;
+			background-color: #ffd9b3;
+			position: absolute;
+			left: 64.2%;
+			bottom: -4%;
+			
+			}
+			
+			.thpadding {
+			
+			padding: 5px;
+			
+			}
+			
+			a {
+			
+				text-decoration: none;
+			
+			}
+			
+			th {
+				
+				margin-right: 5%;
+				
+			}
+			
+			h1 {
+			
+				color: red;
+			
+			}
